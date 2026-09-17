@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "\n- 메뉴막대 아이콘 숨기기·순서 바꾸기 (macOS 27 의 중앙 저장소를 직접 쓴다)\n- 모아 아이콘을 누르면 숨긴 것들이 나오고, 그중 하나를 누르면 **그 앱의 진짜 메뉴**가 열린다\n- 자동 업데이트",
-  "pub_date": "2026-09-17T15:30:40Z",
+  "version": "0.1.1",
+  "notes": "\n- **한국어 · English · 日本語** — 설정에서 고릅니다. 기본은 맥 설정을 따릅니다\n- 트레이 메뉴 문구를 다듬었습니다",
+  "pub_date": "2026-09-17T16:21:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWNkaHpJRFo2N1VDQ09SR05RZ3RNVWROTDljS1h2Y0tOcno0VTh2ZzhhTW5tbmxBY2tMMWswb2E1VGRaeUhiTUpEYWlucGlMem02eXh1TWIwQ0QzYWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjU5MDQwCWZpbGU6TW9hLmFwcC50YXIuZ3oKSWRSRnZvR08rYU1SellmamhjVlRjNzV1c3oyZnM5YjVOMzgwdThIRHB1Q2xiRmZaZUlMdnZoQkhXcnZwNWFFMW5LdUN1eFBrenJYZEhOK3RiZWlXREE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.0/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWRYYnNORjkrNy9yemQrejAwWDYrd2pIaHl4SXRWb3gwbUNWWStUWFZqN2VTSDMyUFE4dkVQWUpmejQvdGZYWFFRaXhUeUl5bFBmYll5L0lzL0RwaHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjYyMDc0CWZpbGU6TW9hLmFwcC50YXIuZ3oKWmF1ZWJoOTNCZjRJNUlIU2pNa25kTGZNK0NqTDgvQkxMYUd6aFBNOHdURmdNRkc4VDBFNWhhTVBSbXgzZ0x2bDlmTllhalNtV21LV0EwRlpIK2FxQmc9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.1/Moa-aarch64.app.tar.gz"
     }
   }
 }
