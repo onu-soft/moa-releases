@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "\n- **한국어 · English · 日本語** — 설정에서 고릅니다. 기본은 맥 설정을 따릅니다\n- 트레이 메뉴 문구를 다듬었습니다",
-  "pub_date": "2026-09-17T16:21:14Z",
+  "version": "0.1.2",
+  "notes": "\n- **프리텐다드**를 앱에 실었습니다. 폰트가 깔려 있지 않은 맥에서도 같은 모습으로 보입니다\n- 일본어는 **Pretendard JP** 를 씁니다 — 한국어판에는 한자가 없어 글자가 섞여 보였습니다\n- \"새 판\" 이라는 어색한 말을 \"버전\" 으로 바꿨습니다",
+  "pub_date": "2026-09-17T16:43:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWRYYnNORjkrNy9yemQrejAwWDYrd2pIaHl4SXRWb3gwbUNWWStUWFZqN2VTSDMyUFE4dkVQWUpmejQvdGZYWFFRaXhUeUl5bFBmYll5L0lzL0RwaHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjYyMDc0CWZpbGU6TW9hLmFwcC50YXIuZ3oKWmF1ZWJoOTNCZjRJNUlIU2pNa25kTGZNK0NqTDgvQkxMYUd6aFBNOHdURmdNRkc4VDBFNWhhTVBSbXgzZ0x2bDlmTllhalNtV21LV0EwRlpIK2FxQmc9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.1/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWZYMEFYeWtWdTE3UUtGN2dkNUcyTWlQaUE1MGt5dUFuQU1SdXUrdUtpLzUzTFRiSDZjZnZ2bVpjVG9lWHZxdEdtRmc4a2w0Y0tMVG1qNFp2Q29KTkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjYzMzk3CWZpbGU6TW9hLmFwcC50YXIuZ3oKTmdkUFhISmtubTVNOW8xK0RrZUlhaG9Dd1VqTzlhZkZybUtTWTY5OUF2YnJLSXNSVDUvbXNnbWM3TGNGVU9mcUdaMzNqSjNGZ3FBNG1zblFyazA3QlE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.2/Moa-aarch64.app.tar.gz"
     }
   }
 }
