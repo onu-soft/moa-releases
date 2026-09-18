@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "\n- 메뉴에 적힌 **⌘, · ⌘Q 가 이제 진짜로 먹습니다.** 글자만 있고 눌러도 아무 일이 없었습니다 — 처음부터 그랬습니다. **Esc** 로도 닫힙니다\n- 메뉴를 열면 **업데이트 상태가 바로 보입니다.** 여태는 \"업데이트 확인\" 을 눌러야 나왔고, 팝업을 닫으면 그 답이 사라져 다시 눌러야 했습니다. 이제 확인해 둔 것을 기억해 열자마자 보여 드립니다",
-  "pub_date": "2026-09-18T06:26:14Z",
+  "version": "0.1.6",
+  "notes": "\n- 두 칸 이름을 **\"표시 항목\" · \"숨김 항목\"** 으로 바꿨습니다. \"보임\" 은 한국어 설정 화면에서 쓰지 않는 말이었습니다\n- 조작 안내를 맥에서 쓰는 말로 맞췄습니다 — \"끌어서 옮기고\" 는 \"드래그하여\", \"누르면\" 은 \"클릭하면\" 으로\n- 안내 문장을 다듬었습니다. 한국어만 손봤고, English · 日本語 는 원래 그대로입니다",
+  "pub_date": "2026-09-18T08:21:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWU2bWVzMVYxUy9lQmcrTGNCeXRVSUcvMk92TWdSTG1teVA1MHB2NitzYnZlenYxNk9nSUtzUW1Zc1ZMbVhValFMTDRGWSt0ZFRoWWtDL05LWGlxNlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzEyNzczCWZpbGU6TW9hLmFwcC50YXIuZ3oKNFBnVmdqcFJLalN3RlF1QVhRWnIyQzQyZjllMGtSSmhRcjM1M0U1Y0o3ekJRV2czSkw0U2hEb0V0WkdmYnpxYmJLc3VEK05FUjMrblgxYjZFWVBGQlE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.5/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVpZSDFWOXFOcktZa252dkNTUVZsK2pCSGVHUjJoZUJMRUJjM3Y1NjNYRlN2ZUQxYVpma0xaUCt3Ulc2Q1pwdTF5dFBPWEdidVZKSTBYRk4xS2REcFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzE5Njk4CWZpbGU6TW9hLmFwcC50YXIuZ3oKVzNKMmtPYTMxeGhJR0MzS3Rhb1JaS1VpWFdWRWQ0ak94Rlk5ZFkrQ3lwM2tWdituSm44azZxUXBjcHg5bmJQcitSTzc1KzVrRkVkUXZ3cHdZMlZIQkE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.6/Moa-aarch64.app.tar.gz"
     }
   }
 }
