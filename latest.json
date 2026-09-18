@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "\n- 자동 업데이트를 **한 시간마다** 다시 봅니다. 여태는 켤 때 한 번만 봐서, 며칠씩 켜 두면 새 버전이 나온 줄 몰랐습니다\n- 자동 업데이트를 끄면 **다음 차례부터 바로** 멈춥니다 — 앱을 다시 켜지 않아도 됩니다",
-  "pub_date": "2026-09-17T17:09:25Z",
+  "version": "0.1.4",
+  "notes": "\n- 새 버전이 나오면 **메뉴막대 아이콘이 몇 번 반짝인 뒤 핑크로 머뭅니다.** 끝없이 깜빡이지는 않습니다 — 눈에 띄는 것은 처음 몇 초로 족하고, 그 뒤로는 머물러 있는 것만으로 표가 됩니다\n- 자동 업데이트를 꺼 두셔도 **새 판이 나온 것은 알려 드립니다.** 끄신 것은 \"알아서 깔지 마라\" 이지 \"알려 주지도 마라\" 가 아니니까요\n- 트레이 메뉴가 찾아 둔 버전을 바로 보여 줍니다 — \"업데이트 확인\" 을 한 번 더 누르지 않아도 됩니다\n- 설치를 누르면 **설정창에 층이 떠 받는 진행을 보여 주고**, 끝나면 다시 시작할지 고르게 합니다. 받는 도중에는 닫히지 않습니다 — 닫아 놓고 끝난 줄 알면 다시 시작해 달라는 말을 못 보니까요",
+  "pub_date": "2026-09-18T01:44:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWZrNGdPaUhvOTl1TG9FY2tsbityeko1QTVaTS84VXVtT01MRjlxQVgxV0RJL2lrbW1mWU9qcWRFSllWRHIzU2RQRjNmc0R0bHZJVVlqb2ZKZVEvZGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY0OTY0CWZpbGU6TW9hLmFwcC50YXIuZ3oKUEc2a3RNNEVPQVVlWjdJR3F3ZEJKUDcvbGFZUzFlM096VWJJOUFhTzlYZG15NGdnTnczOENpNHFRczZFK3I1QzhoMnRjVCtrK3g5RmFKYVZBQmVQQmc9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.3/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVdTSHJFdnhjTC81K2prSU93a0REdW4rMUs4UkFmOThyVkE3UmlMZithS05ZeDZRN3ptKys4OERPUDFLcUZWQ053ZjQrMzdvWTlVb3VJMEVKSFk5WHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njk1ODY3CWZpbGU6TW9hLmFwcC50YXIuZ3oKcUJsb0xiYW8wMEVvVW50QVp2UFVnQ0JUdmtsMXVqbVQ1NTdSQzZpSktGcHNVNVg4d25Na3l6bFhRQUlvTXJ3ZmhMQTViREVpeTNBQ2FFT0o2UWRKQkE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.4/Moa-aarch64.app.tar.gz"
     }
   }
 }
