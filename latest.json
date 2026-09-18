@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "\n- 두 칸 이름을 **\"표시 항목\" · \"숨김 항목\"** 으로 바꿨습니다. \"보임\" 은 한국어 설정 화면에서 쓰지 않는 말이었습니다\n- 조작 안내를 맥에서 쓰는 말로 맞췄습니다 — \"끌어서 옮기고\" 는 \"드래그하여\", \"누르면\" 은 \"클릭하면\" 으로\n- 안내 문장을 다듬었습니다. 한국어만 손봤고, English · 日本語 는 원래 그대로입니다",
-  "pub_date": "2026-09-18T08:21:39Z",
+  "version": "0.1.7",
+  "notes": "\n- 모아 아이콘을 눌렀을 때 **한 줄에 몇 개씩 놓을지** 정할 수 있습니다 — 설정 > 한 줄 개수. 제한 없음 · 5 · 10 · 직접(1~20) 중에 고르고, 넘치는 것은 다음 줄에 표시됩니다\n- **기본은 여태처럼 한 줄로 쭉**입니다. 숨긴 것이 많아 한 줄이 화면을 가로지를 때만 켜시면 됩니다",
+  "pub_date": "2026-09-18T09:08:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVpZSDFWOXFOcktZa252dkNTUVZsK2pCSGVHUjJoZUJMRUJjM3Y1NjNYRlN2ZUQxYVpma0xaUCt3Ulc2Q1pwdTF5dFBPWEdidVZKSTBYRk4xS2REcFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzE5Njk4CWZpbGU6TW9hLmFwcC50YXIuZ3oKVzNKMmtPYTMxeGhJR0MzS3Rhb1JaS1VpWFdWRWQ0ak94Rlk5ZFkrQ3lwM2tWdituSm44azZxUXBjcHg5bmJQcitSTzc1KzVrRkVkUXZ3cHdZMlZIQkE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.6/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVpKaGdkTHBXbDAxMmcxYThHUThablNJMWFUQ05CQ01ERFhvbkhIUmFGNFdsYk9ITGNXY0lnc0VtTWJkR1E0ZS9OY1NhOU9lZ0J4WlJvc2pFOVlzUXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzIyNTA5CWZpbGU6TW9hLmFwcC50YXIuZ3oKL1pvOEg1d2szT0tlaVlGY1UxSkFIUlN4WEVDbHZkUDU1SjEyMHBMb05GSEQ2b3lQbFY1S2ZXbzFZWkxvQWsxY3BhNE1Vc2xUSm5ua0x6bGx2d0RUQlE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.7/Moa-aarch64.app.tar.gz"
     }
   }
 }
