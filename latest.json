@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "\n- 앱을 English 나 日本語 로 쓸 때 **한국어가 그대로 남아 있던 자리**를 모두 고쳤습니다 — 설정 창 제목, 시스템 항목 이름(시계 · Wi-Fi · 배터리 · 집중 모드 …), 트레이 아이콘에 마우스를 얹으면 뜨는 쪽지, 지워진 앱을 눌렀을 때의 알림\n- 맥의 언어가 한국어 · English · 日本語 **어느 것도 아니면 English 로** 뜹니다\n- 한국어로 쓰시는 분에게는 바뀌는 것이 없습니다",
-  "pub_date": "2026-09-19T11:06:03Z",
+  "version": "0.1.9",
+  "notes": "\n- 표시 항목 목록에서 **모아 자신을 빼고 보여 드립니다.** 숨길 수도 옮길 수도 없어서 고를 것이 하나도 없는 줄이었습니다. 개수도 모아를 빼고 셉니다\n- 목록 아래 빈 곳으로 끌어다 놓으면 맨 끝이 아니라 **끝에서 두 번째**에 꽂히던 것을 고쳤습니다\n- 메뉴 막대에 놓이는 모아 아이콘의 자리는 그대로입니다",
+  "pub_date": "2026-09-19T13:34:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWVuY1pYZ2c4bHNuaVdhMGtwOTJ1N1lJSEJNbnFsUlVCYzZhcVdQRDFjaXRLM1NuZ3kyYVN0M3JLUTU2Y29MMzQ0cFh3ZW96akJrWjJTTE0zK0lqL2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODE1OTYyCWZpbGU6TW9hLmFwcC50YXIuZ3oKb2ZSMEoxVFQzM3lOMVJ2WEVRRk1ub3ByRm80VitkR3MvWkRGQWV1OXRBT0YzK0JKcGc0eTdRdFAwa0R0RTJyazg5Q0VZTG9WRlROenhsTWo0cngvQlE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.8/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVZUcnV4b1JDSDhQcU5nMnRydjV2dTJiUVg1TWE5eVdySWlnbFRXeFhFSmNpTk1VRjJjcHFCQzhud3E3QTNnWWFkSWltN05BTXBxUkVSL0JtVUtGb3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODI0ODkzCWZpbGU6TW9hLmFwcC50YXIuZ3oKUWZpeXNNaW9ob2x5bnNvRTZjVFkvdkFzM2V0ZDFIaUJWd1pJY05XU3F5YVNUeFRyb1h5YzZmbVNZbGp2YjU4bnMzUG8yeHJWQzNNL2xEZXhVQnlJQlE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.9/Moa-aarch64.app.tar.gz"
     }
   }
 }
