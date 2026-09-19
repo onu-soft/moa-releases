@@ -1,11 +1,11 @@
 {
-  "version": "0.1.12",
-  "notes": "\n- **시계·Wi-Fi·배터리 같은 시스템 항목은 모아가 숨길 수 없습니다.** 숨김 칸으로 옮겨도 메뉴 막대에는 그대로 남아 있었습니다. 이제 아예 옮길 수 없게 하고, 왜 그런지 알려 드립니다\n- 이 항목들의 표시 여부는 **제어 센터 설정**에서 정합니다. 설정 화면 아래 링크로 바로 갈 수 있습니다\n- 순서를 바꾸는 것은 시스템 항목도 그대로 됩니다(시계만 macOS 가 끝에 고정합니다)",
-  "pub_date": "2026-09-19T15:22:41Z",
+  "version": "0.1.13",
+  "notes": "\n- **글자와 화살표가 또렷해졌습니다.** 목록의 `→`·손잡이, 미리보기의 화살표가 배경에 묻혀 있었습니다. 팝업의 단축키(⌘,·⌘Q)는 마우스를 얹으면 오히려 더 안 보였는데 그것도 고쳤습니다\n- **제어 센터에서 꺼 둔 항목은 목록에 나오지 않습니다.** 사운드처럼 메뉴 막대에 없는데 \"표시 항목\"에 있던 것들입니다\n- **언어를 바꾸면 시스템 항목 이름도 함께 바뀝니다.** 시계·배터리·제어 센터가 예전 언어로 남아 있었습니다\n- 돋보기 항목이 한국어·English·日本語 에서 각각 **검색 · Search · 検索** 로 나옵니다\n- 미리보기의 모아 아이콘에 붙던 숫자를 뺐습니다. 개수는 바로 아래 숨김 항목에 있습니다\n- 목록의 줄 간격과 표시를 다듬었습니다",
+  "pub_date": "2026-09-19T15:47:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWJxNjUrTmUweGRSVDdlREZ5QWZPaGpUK0xQTmtZd2FISTNyMU9QcjZtT1hFV01SbXZwcnpyQnZyUm1TOW5aa3g3Zm02NTJJYXI5WDlmRC95azBuT3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODMxMzU5CWZpbGU6TW9hLmFwcC50YXIuZ3oKaW1uWkJtVWU1WGZKQm90ZW4yZ2cvL2Fwblc2S0FLaG5yZmpnbFNXTjNpZEtZYllXSTVJSk81K0FNUHBFWkYzYy9TOGV3KzBaZjB1aXdDeXlES1RIQUE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.12/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWE0V0p1YzRZSlFmeDA2aWpSdjZtcVVYdXlNNDQ1SHg4b0pVVHo5a3g4Rmw0KzAzQUdYaWw1YncweXU4MTIzcDZLaXdMbjU5bFo1OTZCb2lIcHFZbFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODMyODI3CWZpbGU6TW9hLmFwcC50YXIuZ3oKTUhHY3p1OEdRb3l0dVBKaWlIWDk2d1p6Q3hRaXRCT3pHSnJWc1lockxCYTl2ZGZzWUY2QUNRSWlvYTFsV3V4L0RBWDFyK2dhcXJMWkVrdkxTZW5EQlE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.13/Moa-aarch64.app.tar.gz"
     }
   }
 }
