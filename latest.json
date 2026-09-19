@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "\n- 설정 위쪽에 **메뉴 막대 미리보기**가 생겼습니다. 항목을 끌어 옮기면 그 자리에서 모습이 바로 바뀌어, 적용하기 전에 결과를 볼 수 있습니다\n- 실제 메뉴 막대와 같이 **오른쪽 끝에서 왼쪽으로** 쌓입니다. 왼쪽에 남은 빈 자리가 아직 쓸 수 있는 자리입니다\n- 목록의 줄과 미리보기의 아이콘이 서로를 밝힙니다. 어느 줄이 막대의 어느 자리인지 한눈에 보입니다\n- 모아 아이콘에 붙은 숫자는 그 안에 들어 있는 항목 개수입니다\n- **모아 줄이 표시 항목으로 돌아왔습니다.** 미리보기가 생기면서 모아 아이콘의 자리도 직접 정할 수 있게 되었습니다. 숨김으로는 보낼 수 없습니다",
-  "pub_date": "2026-09-19T14:12:26Z",
+  "version": "0.1.11",
+  "notes": "\n- **미리보기 막대에서 아이콘을 바로 끌어 옮길 수 있습니다.** 미리보기와 목록 사이로도 옮겨집니다\n- **설정 창이 훨씬 빨리 뜹니다.** 아이콘을 원본 크기 그대로 실어 나르던 것을 화면에 맞게 줄였습니다\n- 돋보기 항목이 **검색**으로 제 이름을 찾았습니다. 앱 이름이 아니라 macOS 가 그 항목을 부르는 이름을 씁니다\n- **시계가 목록에서도 맨 오른쪽**입니다. macOS 가 시계를 막대 끝에 두기 때문에 순서는 바꿀 수 없습니다\n- 모아 아이콘이 목록에서 거의 검게 보이던 것을 고쳤습니다",
+  "pub_date": "2026-09-19T15:11:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVRDbUZObXlNWjVWSi9OSGRySUdGVWM2aDBMeThvL05PUVh2a3BvR2xXclNWU3dMVnBFZm05ZHBlK3V5SmNKQy9qTFdqbTZweFRqSWVReGZENEEwVlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODI3MTQ0CWZpbGU6TW9hLmFwcC50YXIuZ3oKb3JmUDdRU0Y5eERUVlovMDlPZXYybHlxY3YxRlNHbWRZYm10VTl4ckQ3aFdDMUFKT3JzSTk2RVJWa3dYS0Z1SWhTeGZUTU5rbTE2bzhjOTcvTHZrQWc9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.10/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWIweitZQ3YxN0dkcFN4VWcrbFVJeEhCWmhLL2F6YkFVTjRzTmJWc0l1QXdtWHUvS1dXNlk2V3pibGJacFpvWnlubkRMdzlxZ1ZpbEhmaE85QkxIeWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODMwNzA4CWZpbGU6TW9hLmFwcC50YXIuZ3oKTGhsRC9KZGhQWHZNWUEvT0pvVFJQNmVyRWx4a0s1RkZyVUgwR3Jjd3dWT0RzbnNBcXlOb0h0UERoOXdHWm5Yd1JnVFdsQ2VKOU1taWxNL0Z6QjdEQUE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.11/Moa-aarch64.app.tar.gz"
     }
   }
 }
