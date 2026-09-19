@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "\n- 모아 아이콘을 눌렀을 때 **한 줄에 몇 개씩 놓을지** 정할 수 있습니다 — 설정 > 한 줄 개수. 제한 없음 · 5 · 10 · 직접(1~20) 중에 고르고, 넘치는 것은 다음 줄에 표시됩니다\n- **기본은 여태처럼 한 줄로 쭉**입니다. 숨긴 것이 많아 한 줄이 화면을 가로지를 때만 켜시면 됩니다",
-  "pub_date": "2026-09-18T09:08:30Z",
+  "version": "0.1.8",
+  "notes": "\n- 앱을 English 나 日本語 로 쓸 때 **한국어가 그대로 남아 있던 자리**를 모두 고쳤습니다 — 설정 창 제목, 시스템 항목 이름(시계 · Wi-Fi · 배터리 · 집중 모드 …), 트레이 아이콘에 마우스를 얹으면 뜨는 쪽지, 지워진 앱을 눌렀을 때의 알림\n- 맥의 언어가 한국어 · English · 日本語 **어느 것도 아니면 English 로** 뜹니다\n- 한국어로 쓰시는 분에게는 바뀌는 것이 없습니다",
+  "pub_date": "2026-09-19T11:06:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVpKaGdkTHBXbDAxMmcxYThHUThablNJMWFUQ05CQ01ERFhvbkhIUmFGNFdsYk9ITGNXY0lnc0VtTWJkR1E0ZS9OY1NhOU9lZ0J4WlJvc2pFOVlzUXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzIyNTA5CWZpbGU6TW9hLmFwcC50YXIuZ3oKL1pvOEg1d2szT0tlaVlGY1UxSkFIUlN4WEVDbHZkUDU1SjEyMHBMb05GSEQ2b3lQbFY1S2ZXbzFZWkxvQWsxY3BhNE1Vc2xUSm5ua0x6bGx2d0RUQlE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.7/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWVuY1pYZ2c4bHNuaVdhMGtwOTJ1N1lJSEJNbnFsUlVCYzZhcVdQRDFjaXRLM1NuZ3kyYVN0M3JLUTU2Y29MMzQ0cFh3ZW96akJrWjJTTE0zK0lqL2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODE1OTYyCWZpbGU6TW9hLmFwcC50YXIuZ3oKb2ZSMEoxVFQzM3lOMVJ2WEVRRk1ub3ByRm80VitkR3MvWkRGQWV1OXRBT0YzK0JKcGc0eTdRdFAwa0R0RTJyazg5Q0VZTG9WRlROenhsTWo0cngvQlE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.8/Moa-aarch64.app.tar.gz"
     }
   }
 }
