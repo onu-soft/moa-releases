@@ -1,11 +1,11 @@
 {
-  "version": "0.1.15",
-  "notes": "\n- **설정에 \"화면\" 이 생겼습니다 — 밝게 · 어둡게.** 기본은 **시스템**이라 맥의 화면 모드를 그대로 따라가고, 늘 밝게(또는 늘 어둡게) 쓰고 싶으면 거기서 고르면 됩니다. 설정 창·팝업·트레이 메뉴가 함께 바뀝니다\n- 제 아이콘이 없는 앱이 **아무 무늬 없는 흰 네모**로 나오던 것을 고쳤습니다. 이제 이름 첫 글자로 나옵니다 — 밝은 화면에서는 그 네모가 바탕에 묻혀 아예 안 보였습니다",
-  "pub_date": "2026-09-20T06:25:23Z",
+  "version": "0.1.16",
+  "notes": "\n- **설정의 아이콘 순서가 실제 메뉴 막대와 같아졌습니다.** 시계처럼 **제어 센터와 Siri 도 macOS 가 막대 오른쪽 끝에 고정**하는데 설정은 그것을 몰라서, 모아 아이콘이 실제보다 오른쪽에 있는 것처럼 보였습니다\n- **목록에 \"모아\" 가 두 번 나오던 것을 고쳤습니다.** macOS 가 모아 아이콘을 두 이름으로 적어 두는 일이 있는데, 그중 하나는 이미 없는 옛 기록이었습니다",
+  "pub_date": "2026-09-20T11:48:02Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWJrODlLOWdMUThvTVlGR1NqVkRrVGY1S053cS9Va01FcjNHUktOTllmMzArSG9DdDE4QmpwWUZUQVl3bG85R3FSRWUyc1VpUnpnc3pWeWNwbUc4N3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg1NTIxCWZpbGU6TW9hLmFwcC50YXIuZ3oKcDR4VklteU8xdnNRTHhyVUFDc3BROTN0bjhSQjArME85Y05iSW15RzYzM20vQ1lobmFxK0pwenZoWHlHeG5nWXNONzZ3UUhqNlFDNGtDbmt0QkhIQlE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.15/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVhwRDJuOHVsTXhGUW1BcGlUWUE4Ylp5cU96cE9vOTdzQmZFa2FsTFNQOHJqSkNCV0tVSzNCWTBCYlNVeW00bERJWlJULzdBc0Rud3ZjUVMxZmtKNVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTA0ODgxCWZpbGU6TW9hLmFwcC50YXIuZ3oKeEIvMW55VDMyRjdsSmVKZFVpa2VhRDlDZ2RNVk9ZOW51UXJCZ3lpVURaOTJLbXZGcTNSYWFJYit0UVVZT2tJYURrbVBUL1IwL2ZqblRiY1FIOVJsQ0E9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.16/Moa-aarch64.app.tar.gz"
     }
   }
 }
