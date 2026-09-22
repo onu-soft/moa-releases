@@ -1,11 +1,11 @@
 {
-  "version": "0.1.18",
-  "notes": "\n- **\"로그인 시 실행\" 을 켜 뒀는데 로그인해도 모아가 안 뜨거나, 업데이트를 깔았는데 예전 판이 뜨던 것을 고쳤습니다.** 스위치는 켜져 있으니 사람 눈에는 멀쩡해 보이고, 메뉴 막대만 조용히 비어 있던 자리입니다. 이미 켜 두셨다면 모아를 한 번 켜는 것만으로 저절로 맞춰집니다 — 다시 켤 필요는 없습니다",
-  "pub_date": "2026-09-22T12:28:45Z",
+  "version": "0.1.19",
+  "notes": "\n- **모아를 끝내면 숨겨 둔 아이콘이 모두 메뉴 막대로 돌아옵니다.** 지금까지는 모아를 꺼도 숨김이 그대로 남아 있어서, 끈 뒤에 아이콘을 꺼내려면 모아를 다시 켜는 수밖에 없었습니다. 다시 켜면 정해 두신 대로 도로 숨으니 설정은 그대로입니다",
+  "pub_date": "2026-09-22T12:50:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVpteFQ2MG12OUJqZFZrRGljekFaTmswUitlM3RiNTluUVNCbHp3R3o0R0NUMGxTLzdMdTVad0MvYS9aeXdId3M5ZWRsVGo0dTc4aGN6dytjR2lHaWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDgwMTI1CWZpbGU6TW9hLmFwcC50YXIuZ3oKamgzb1VXWm1Da2tOWDBoMFNPa0c5Y0EzMzJkc0pWSUJVQjJtazJ5Z1pRUHIxZ3l6aFB1N3FQbWZoOWI4ZjVKRkdiVEpuYWl6SjRFT0owSW1PV050QkE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.18/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWY5WTJJano3TmMyYkhmLzNLT1QrVXlxVUt3ck80T1J4Y0FQVHZrYUZxa09KanBMMzdoZ2ZpVWJ5RGx4dE1LQ3dscDhOMUpIWXhxMUxkQWt3RHRUMmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDgxNDEyCWZpbGU6TW9hLmFwcC50YXIuZ3oKUm83eitHOWRXdzdKaEVFY2RzYVhpWHBSbVNzRjZSbTg4Tzd2RG5Eamx5L3dYbmdPSVRqb3dYRVNkVHR3QjFNWDk4a2tIVWxlRHlGelpxcjMwUm9PQUE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.19/Moa-aarch64.app.tar.gz"
     }
   }
 }
