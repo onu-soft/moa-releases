@@ -1,11 +1,11 @@
 {
-  "version": "0.1.21",
-  "notes": "\n- **숨김으로 옮겼는데도 메뉴 막대에 그대로 남던 앱을 고쳤습니다.** 개발용으로 한 번 띄운 적이 있는 앱에서 생기던 일로, macOS 가 그 앱의 \"메뉴 막대에서 허용\" 스위치를 **옛 실행 파일**에 묶어 둔 탓이었습니다. 이제 모아가 그 연결을 바로잡습니다\n- **꺼낸 아이콘은 그 앱의 메뉴를 열어 둔 동안 사라지지 않습니다.** 메뉴를 닫으면 그때 도로 숨습니다 — 지금까지는 메뉴를 보고 있는 중에 아이콘이 먼저 사라졌습니다",
-  "pub_date": "2026-09-28T09:36:20Z",
+  "version": "0.1.22",
+  "notes": "\n- **앱을 업데이트하거나 다시 까는 동안 그 앱의 숨김 설정이 사라지던 것을 고쳤습니다.** 다시 까는 잠깐 사이에는 macOS 가 그 앱을 못 찾는 순간이 있는데, 모아가 그것을 \"지워진 앱\" 으로 보고 정해 두신 자리를 없앴습니다. 이제 목록에서만 잠깐 빠지고 **설정은 그대로 남습니다** — 앱이 돌아오면 숨김도 그대로 돌아옵니다",
+  "pub_date": "2026-09-28T09:52:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWUwQlhSdU9rTURGc0JjRTQ3ZGJmODJwdjdFSHRVTGVMQ3JIdmM0SHRENGdrQkNjN09xeXpSZ0pZcTU0cU04RmU5d29ubXl4VlZ4d1JHV0tsc2xtN3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg4MTc5CWZpbGU6TW9hLmFwcC50YXIuZ3oKMUtPTklUZHRha2Y0SlF0SmxzU0laenJpaG13aE5jcEdGR3dvOUR3TWRNYmlpaEN4N3YrSnpSN3NwZldOeDdSSWROWldOdXVNWG0rWVBWTU53UHJkQ3c9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.21/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVkweCt5bHRRdlVQWFNIYjlZY1RjQVl5WFY1R1VOeFB6NmdYUHFqbzNEOGR4aTNPR0k5R0VuOCtQaWMyeVQ0TUNPVEl2M1JHMHlDYXRhbXkwOCsyREF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg5MTI1CWZpbGU6TW9hLmFwcC50YXIuZ3oKa1NObXZqT25IbjhCTzlvKzRSWnU4ZjFGS25PM2oreUY3eVNDdkFZVjk4WXBkV2VBOEZPL2lDaFBMS0pGUVpyZGFNaXNobm5vUWUzM0w5eUZNR1pPQUE9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.22/Moa-aarch64.app.tar.gz"
     }
   }
 }
