@@ -1,11 +1,11 @@
 {
-  "version": "0.1.20",
-  "notes": "\n- **지운 앱이 모아 아이콘을 눌렀을 때 계속 나오던 것을 고쳤습니다.** macOS 는 메뉴 막대에 한 번 올라온 항목을 스스로 지우지 않아서, 앱을 삭제해도 그 자리가 그대로 남아 있었습니다. 이제 팝업과 설정 목록에서 함께 사라지고, 모아가 적어 둔 배치에서도 빠집니다. 개발용으로 빌드해 둔 앱도 설치된 것으로 세지 않습니다",
-  "pub_date": "2026-09-28T08:44:43Z",
+  "version": "0.1.21",
+  "notes": "\n- **숨김으로 옮겼는데도 메뉴 막대에 그대로 남던 앱을 고쳤습니다.** 개발용으로 한 번 띄운 적이 있는 앱에서 생기던 일로, macOS 가 그 앱의 \"메뉴 막대에서 허용\" 스위치를 **옛 실행 파일**에 묶어 둔 탓이었습니다. 이제 모아가 그 연결을 바로잡습니다\n- **꺼낸 아이콘은 그 앱의 메뉴를 열어 둔 동안 사라지지 않습니다.** 메뉴를 닫으면 그때 도로 숨습니다 — 지금까지는 메뉴를 보고 있는 중에 아이콘이 먼저 사라졌습니다",
+  "pub_date": "2026-09-28T09:36:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVZqZ1NZRFRGMFoxcUhtZFcwdzJVTlp2Kys0eWt3UFl0RkIraC9oMlFtNDFsQWpkQUJEa3JLRXpyRVVQclZnNTBCYWs1NFkzKzdNWEJsVTZ5OFU0MlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg1MDgyCWZpbGU6TW9hLmFwcC50YXIuZ3oKOTlxN3kwT1lTVFNnOWdkbVkwR29MNVJ4SUFNT3VaWnJ6SDdWNjViVnBOeGtNZ2VuTEl5cEtBRUxGM0ZxWFc0L0tQYjBQYkZIb0JuSXpqMnQyajd4REE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.20/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNWUwQlhSdU9rTURGc0JjRTQ3ZGJmODJwdjdFSHRVTGVMQ3JIdmM0SHRENGdrQkNjN09xeXpSZ0pZcTU0cU04RmU5d29ubXl4VlZ4d1JHV0tsc2xtN3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg4MTc5CWZpbGU6TW9hLmFwcC50YXIuZ3oKMUtPTklUZHRha2Y0SlF0SmxzU0laenJpaG13aE5jcEdGR3dvOUR3TWRNYmlpaEN4N3YrSnpSN3NwZldOeDdSSWROWldOdXVNWG0rWVBWTU53UHJkQ3c9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.21/Moa-aarch64.app.tar.gz"
     }
   }
 }
