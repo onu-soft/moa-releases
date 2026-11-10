@@ -1,11 +1,11 @@
 {
-  "version": "0.1.22",
-  "notes": "\n- **앱을 업데이트하거나 다시 까는 동안 그 앱의 숨김 설정이 사라지던 것을 고쳤습니다.** 다시 까는 잠깐 사이에는 macOS 가 그 앱을 못 찾는 순간이 있는데, 모아가 그것을 \"지워진 앱\" 으로 보고 정해 두신 자리를 없앴습니다. 이제 목록에서만 잠깐 빠지고 **설정은 그대로 남습니다** — 앱이 돌아오면 숨김도 그대로 돌아옵니다",
-  "pub_date": "2026-09-28T09:52:06Z",
+  "version": "0.1.23",
+  "notes": "\n- **모아가 켜져 있는 동안 지운 앱이 숨긴 항목 팝업에 계속 남던 것을 고쳤습니다.** 지금까지는 모아를 껐다 켜야 사라졌습니다. 이제 팝업을 열 때마다 확인해서 지운 앱은 바로 빠지고, 다시 깔면 숨김 설정 그대로 돌아옵니다",
+  "pub_date": "2026-11-10T13:07:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVkweCt5bHRRdlVQWFNIYjlZY1RjQVl5WFY1R1VOeFB6NmdYUHFqbzNEOGR4aTNPR0k5R0VuOCtQaWMyeVQ0TUNPVEl2M1JHMHlDYXRhbXkwOCsyREF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTg5MTI1CWZpbGU6TW9hLmFwcC50YXIuZ3oKa1NObXZqT25IbjhCTzlvKzRSWnU4ZjFGS25PM2oreUY3eVNDdkFZVjk4WXBkV2VBOEZPL2lDaFBMS0pGUVpyZGFNaXNobm5vUWUzM0w5eUZNR1pPQUE9PQo=",
-      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.22/Moa-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNGVhWUZyNmpvNVZ5QjRaWHVXdXhyS1NuOHU4TndQZmpaWDNFaDlObUxVdmp4OUNkaHNpYUFvWk00ZUE3VXhFVVhoeU5PU1ExSlViMTZINm8yOTJwNk9lQXZoWExVQ0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE2MDQ4CWZpbGU6TW9hLmFwcC50YXIuZ3oKSW80bXpwMEYrbWNVSDBTai9aL3FkNG01Y2VZQzBlc3ljZnkwOUVxVmhWUmxaelJmdzJnUEcwY1l2cnB3L2tzWlVLNHRmUmF0c3lTdTY3RUVBYUVqQmc9PQo=",
+      "url": "https://github.com/onu-soft/moa-releases/releases/download/v0.1.23/Moa-aarch64.app.tar.gz"
     }
   }
 }
